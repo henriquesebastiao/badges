@@ -6,6 +6,10 @@ A collection of badges for your Projects.
 
 - [Badges](#badges)
   - [Table of Contents 📜](#table-of-contents-)
+  - [Usage 📖](#usage-)
+    - [Styles 🎨](#styles-)
+    - [Icons 🎭](#icons-)
+  - [References](#references)
     - [Contact ☎️](#contact-️)
     - [Group 👥](#group-)
     - [Social 🌐](#social-)
@@ -13,6 +17,43 @@ A collection of badges for your Projects.
     - [Blog 📝](#blog-)
     - [Streaming 📺](#streaming-)
     - [Hard Skills 🛠️](#hard-skills-️)
+
+## Usage 📖
+
+To search for a specific badge among all those listed below press `Ctrl + F` (or `CMD + F` on MAC OS) and a search box will open in your browser.
+
+It is possible to use different styles in badges through query parameters of the powerful [Shields.io](https://shields.io/) API, see the examples below.
+
+### Styles 🎨
+
+- `style`: (optional) The style of the badge. One of:
+  - `flat` (default)
+  - `flat-square`
+  - `social`
+  - `plastic`
+  - `for-the-badge`
+
+Examples:
+
+| Style | Badge | URL |
+| - | - | - |
+| `flat` | ![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white) | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white` |
+| `flat-square` | ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white` |
+| `social` | ![Github](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=black) | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white` |
+| `plastic` | ![Github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white) | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white` |
+| `for-the-badge` | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white` |
+
+### Icons 🎭
+
+It is possible to create a personalized badge with a different logo, just search for the name of a logo available on the [Simple Icons](https://simpleicons.org/) website, it even suggests the color of that brand, see the example:
+
+| Style | Color | Badge | URL |
+| - | - | - | - |
+| `VSCodium` | #2F80ED | ![Github](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=VSCodium&logoColor=white) | `https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=VSCodium&logoColor=white` |
+
+## References
+
+The powerfull [Shields.io](https://shields.io/) API is used to generate the badges.
 
 ### Contact ☎️
 
