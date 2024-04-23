@@ -2,23 +2,23 @@
 
 A collection of badges for your Projects.
 
-## Table of Contents 📜
+## Table of Contents
 
 - [Badges](#badges)
-    - [Table of Contents 📜](#table-of-contents-)
-    - [Usage 📖](#usage-)
-        - [Styles 🎨](#styles-)
-        - [Icons 🎭](#icons-)
+    - [Table of Contents 📜](#table-of-contents)
+    - [Usage 📖](#usage)
+        - [Styles 🎨](#styles)
+        - [Icons 🎭](#icons)
     - [References](#references)
-        - [Contact ☎️](#contact-)
-        - [Group 👥](#group-)
-        - [Social 🌐](#social-)
-        - [Store 🛒](#store-)
-        - [Blog 📝](#blog-)
-        - [Streaming 📺](#streaming-)
-        - [Hard Skills 🛠️](#hard-skills-)
+        - [Contact ☎️](#contact)
+        - [Group 👥](#group)
+        - [Social 🌐](#social)
+        - [Store 🛒](#store)
+        - [Blog 📝](#blog)
+        - [Streaming 📺](#streaming)
+        - [Hard Skills 🛠️](#hard-skills)
 
-## Usage 📖
+## Usage
 
 To search for a specific badge among all those listed below press `Ctrl + F` (or `CMD + F` on macOS) and a search box
 will open in your browser.
@@ -26,7 +26,7 @@ will open in your browser.
 It is possible to use different styles in badges through query parameters of the
 powerful [Shields.io](https://shields.io/) API, see the examples below.
 
-### Styles 🎨
+### Styles
 
 - `style`: (optional) The style of the badge. One of:
     - `flat` (default)
@@ -45,7 +45,7 @@ Examples:
 | `plastic`       | ![Github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)       | `https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white` |
 | `for-the-badge` | ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | `https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white` |
 
-### Icons 🎭
+### Icons
 
 It is possible to create a personalized badge with a different logo, just search for the name of a logo available on
 the [Simple Icons](https://simpleicons.org/) website, it even suggests the color of that brand, see the example:
@@ -58,7 +58,7 @@ the [Simple Icons](https://simpleicons.org/) website, it even suggests the color
 
 The powerfull [Shields.io](https://shields.io/) API is used to generate the badges.
 
-### Contact ☎️
+### Contact
 
 | Name      | Badge                                                                                                     | URL                                                                                             |
 |-----------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -70,7 +70,7 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | WeChat    | ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)              | `https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white`             |
 | WhatsApp  | ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)        | `https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white`         |
 
-### Group 👥
+### Group
 
 | Name    | Badge                                                                                               | URL                                                                                         |
 |---------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -79,7 +79,7 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | Teams   | ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white) | `https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white` |
 | Zoom    | ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=flat&logo=zoom&logoColor=white)              | `https://img.shields.io/badge/Zoom-0B5CFF?style=flat&logo=zoom&logoColor=white`             |
 
-### Social 🌐
+### Social
 
 | Name           | Badge                                                                                                                  | URL                                                                                                   |
 |----------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -112,7 +112,7 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | X              | ![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)                                          | `https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white`                             |
 | XDA Developers | ![XDA Developers](https://img.shields.io/badge/XDA%20Developers-EA7100?style=flat&logo=xda-developers&logoColor=white) | `https://img.shields.io/badge/xda%20developers-EA7100?style=flat&logo=xda-developers&logoColor=white` |
 
-### Store 🛒
+### Store
 
 | Name       | Badge                                                                                                      | URL                                                                                           |
 |------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -120,7 +120,7 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | F Droid    | ![F Droid](https://img.shields.io/badge/F%20Droid-1976D2?style=flat&logo=f-droid&logoColor=white)          | `https://img.shields.io/badge/F%20Droid-1976D2?style=flat&logo=f-droid&logoColor=white`       |
 | Play Store | ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) | `https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white` |
 
-OS 💻
+### OS
 
 | Name          | Badge                                                                                                            | URL                                                                                              |
 |---------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -156,7 +156,7 @@ OS 💻
 | Windows XP    | ![Windows XP](https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white)         | `https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white`      |
 | Zorin OS      | ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-15A6F0?style=flat&logo=zorin&logoColor=white)                | `https://img.shields.io/badge/Zorin%20OS-15A6F0?style=flat&logo=zorin&logoColor=white`           |
 
-### Blog 📝
+### Blog
 
 | Name            | Badge                                                                                                               | URL                                                                                               |
 |-----------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -167,7 +167,7 @@ OS 💻
 | RSS             | ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat&logo=rss&logoColor=white)                                 | `https://img.shields.io/badge/RSS-FFA500?style=flat&logo=rss&logoColor=white`                     |
 | Wordpress       | ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)               | `https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white`         |
 
-### Streaming 📺
+### Streaming
 
 | Name            | Badge                                                                                                                   | URL                                                                                                   |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -178,7 +178,7 @@ OS 💻
 | Twitch          | ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)                            | `https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white`                   |
 | Youtube         | ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)                         | `https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white`                 |
 
-### Hard Skills 🛠️
+### Hard Skills
 
 | Name          | Badge                                                                                                             | URL                                                                                                   |
 |---------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
