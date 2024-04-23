@@ -96,7 +96,8 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | Leetcode       | ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)                    | `https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black`              |
 | Instagram      | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)                  | `https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white`             |
 | Linkedin       | ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)                     | `https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white`               |
-| Linktree       | ![Linktree](https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white)                     | `https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white`               |
+| Linktree       | ![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)                     | `https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white`               |
+| Mastodon       | ![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)                     | `https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white`               |
 | Pinterest      | ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&logo=Pinterest&logoColor=white)                     | `https://img.shields.io/badge/Pinterest-%23E60023.svg?&logo=Pinterest&logoColor=white`                |
 | Quora          | ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&logo=Quora&logoColor=white)                                 | `https://img.shields.io/badge/Quora-%23B92B27.svg?&logo=Quora&logoColor=white`                        |
 | Reddit         | ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)                           | `https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white`                   |
@@ -107,8 +108,9 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | Tiktok         | ![Tiktok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)                           | `https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white`                   |
 | Tumblr         | ![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&logo=Tumblr&logoColor=white)                              | `https://img.shields.io/badge/Tumblr-%2336465D.svg?&logo=Tumblr&logoColor=white`                      |
 | Twitter        | ![name](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)                           | `https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white`                 |
-| X              | ![X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)                                    | `https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white`                       |
-| XDA Developers | ![XDA Developers](https://img.shields.io/badge/xda%20developers-2DAAE9?style=flat&logo=xda-developers&logoColor=white) | `https://img.shields.io/badge/xda%20developers-2DAAE9?style=flat&logo=xda-developers&logoColor=white` |
+| Twitter (X)    | ![X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)                                    | `https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white`                       |
+| X              | ![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)                                          | `https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white`                             |
+| XDA Developers | ![XDA Developers](https://img.shields.io/badge/XDA%20Developers-2DAAE9?style=flat&logo=xda-developers&logoColor=white) | `https://img.shields.io/badge/xda%20developers-2DAAE9?style=flat&logo=xda-developers&logoColor=white` |
 
 ### Store 🛒
 
