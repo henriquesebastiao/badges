@@ -1,4 +1,4 @@
-# Badges
+# Badges 🎖️
 
 A collection of badges for your Projects.
 
@@ -229,6 +229,7 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | Spring        | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)                      | `https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white`                   |
 | Flask         | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)                         | `https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white`                     |
 | Flutter       | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)                   | `https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white`                 |
+| Cypress       | ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white)                   | `https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white`                 |
 | MySQL         | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)                         | `https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white`                     |
 | PostgreSQL    | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)          | `https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white`           |
 | MongoDB       | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)                   | `https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white`                 |
