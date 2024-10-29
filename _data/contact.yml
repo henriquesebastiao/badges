@@ -1,0 +1,32 @@
+#  The contact options.
+
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
+# - type: instagram
+#   icon: 'fa-brands fa-instagram'   # icons powered by <https://fontawesome.com/>
+#   url:  'https://www.instagram.com/hick.hs/'
+
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
+# Uncomment and complete the url below to enable more contact options
+
+- type: mastodon
+  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+  url:  'https://bolha.us/@henriquesebastiao'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/henriquesebastiao/'                  # Fill with your Linkedin homepage
+
+- type: github
+  icon: "fab fa-github"
+
+#- type: stack-overflow
+#  icon: 'fab fa-stack-overflow'
+#  url:  'https://stackoverflow.com/users/18069004/henrique-sebasti%c3%a3o'                  # Fill with your stackoverflow homepage
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
