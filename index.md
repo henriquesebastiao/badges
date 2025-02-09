@@ -6,6 +6,17 @@ date: 2024-10-29 16:54:00 -0400
 layout: post
 ---
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=Repository%20Visits&countColor=%230c7ebe&style=flat&labelStyle=none)
+![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges)
+![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
+![GitHub Repo stars](https://img.shields.io/github/stars/henriquesebastiao/badges)
+
+A reference of several ready-made badges that you can implement in the Markdown code of your projects `README.md`, and a guide of examples on how to customize them for your needs.
+Badges help display relevant information visually and prominently, such as build status, test coverage, licenses, languages ​​used, and more!
+
+> Contributions and suggestions are welcome! If you would like to contribute by adding new badges, feel free to open a PR. If you would like to request the addition of new badges, open an issue with your request.
+{: .prompt-tip }
+
 ## Table of Contents
 
 - [Badges](#badges)
@@ -13,6 +24,13 @@ layout: post
     - [Usage 📖](#usage)
         - [Styles 🎨](#styles)
         - [Icons 🎭](#icons)
+        - [Modifications 🔧](#modifications)
+    - [Commonly Used Badges 💡](#commonly-used-badges)
+        - [Number of Downloads ⬇️](#number-of-downloads)
+        - [Funding ❤️](#funding)
+        - [License 📜](#license)
+        - [Rating ⭐](#rating)
+        - [Version 🏷️](#version)
     - [References](#references)
         - [Contact ☎️](#contact)
         - [Group 👥](#group)
@@ -39,7 +57,7 @@ powerful [Shields.io](https://shields.io/) API, see the examples below.
     - `plastic`
     - `for-the-badge`
 
-Examples:
+Possibilities:
 
 | Style           | Badge                                                                                                 | URL                                                                                 |
 |-----------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
@@ -54,9 +72,74 @@ Examples:
 It is possible to create a personalized badge with a different logo, just search for the name of a logo available on
 the [Simple Icons](https://simpleicons.org/) website, it even suggests the color of that brand, see the example:
 
-| Style      | Color   | Badge                                                                                            | URL                                                                                     |
-|------------|---------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| `VSCodium` | #2F80ED | ![Github](https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white) | `https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white` |
+| Brand    | Color   | Badge                                                                                            | URL                                                                                     |
+|----------|---------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| VSCodium | #2F80ED | ![Github](https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white) | `https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white` |
+
+### Modifications
+
+You can change the characteristics of your badges according to your needs. For example, see the Markdown badge below:
+
+| Brand    | Color   | Badge                                                                                              | URL                                                                                     |
+|----------|---------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Markdown | #000000 | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) | `https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white` |
+| Markdown | #ffffff | ![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black) | `https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black` |
+
+In the first example, we have the badge logo and text in white and a black background, while in the second case the opposite occurs when we change the background color in the URL from `#000000` to `#ffffff` and the logo color from `white` to `black`. Now we have a badge with customized colors 🎨.
+
+## Commonly Used Badges
+
+Below are lists of badges that are commonly used on the README pages of many projects. Badges are used to signal things like package version, status, activity, licenses, and more. Pay attention to the URL content to see which parts to change for your use case.
+
+> The badges listed here are dynamic, that is, you define them in your repository and as the data they illustrate is updated, whenever a visitor sees your README they will see the updated version of the badge 💡.
+{: .prompt-tip }
+
+### Number of Downloads
+
+In the examples below, when the period or interval parameter is required, the possible values ​​are [`dd`, `dw`, `dm`, `dy`, `d18m`], which correspond respectively to daily, weekly, monthly downloads, year or 18 months.
+
+| Description    | Badge                                                                            | URL Sintax                                         | Example URL                                                              |
+|----------------|----------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------|
+| Docker Pulls   | ![Docker Pulls](https://img.shields.io/docker/pulls/henriquesebastiao/downtify) | `https://img.shields.io/docker/pulls/<user>/<repo>` | `https://img.shields.io/docker/pulls/henriquesebastiao/downtify` |
+| PyPi Downloads | ![PyPI - Downloads](https://img.shields.io/pypi/dd/fastapi)                     | `https://img.shields.io/pypi/<period>/<packageName>` | `https://img.shields.io/pypi/dd/fastapi` |
+| Flathub Downloads | ![Flathub Downloads](https://img.shields.io/flathub/downloads/org.mozilla.firefox) | `https://img.shields.io/flathub/downloads/<packageName>` | `https://img.shields.io/flathub/downloads/org.mozilla.firefox` |
+| Gem Total Downloads | ![Gem Total Downloads](https://img.shields.io/gem/dt/rubocop) | `https://img.shields.io/gem/dt/<gem>` | `https://img.shields.io/gem/dt/rubocop` |
+| NPM Downloads | ![NPM Downloads](https://img.shields.io/npm/dm/svelte) | `https://img.shields.io/npm/<interval>/<packageName>` | `https://img.shields.io/npm/dm/svelte` |
+
+### Funding
+
+| Description    | Badge                                                                            | URL Sintax                                         | Example URL                                                              |
+|----------------|----------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------|
+| GitHub Sponsors | ![GitHub Sponsors](https://img.shields.io/github/sponsors/tiangolo) | `https://img.shields.io/github/sponsors/<user>` | `https://img.shields.io/github/sponsors/tiangolo` |
+| Liberapay Patrons | ![Liberapay patrons](https://img.shields.io/liberapay/patrons/ventoy) | `https://img.shields.io/liberapay/patrons/<entity>` | `https://img.shields.io/liberapay/patrons/ventoy` |
+| Open Collective Backers | ![Open Collective backers](https://img.shields.io/opencollective/backers/ventoy) | `https://img.shields.io/opencollective/backers/<collective>` | `https://img.shields.io/liberapay/patrons/ventoy` |
+
+### License
+
+| Description    | Badge                                                                            | URL Sintax                                         | Example URL                                                              |
+|----------------|----------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------|
+| AUR License | ![AUR License](https://img.shields.io/aur/license/tor-browser-bin) | `https://img.shields.io/aur/license/<packageName>` | `https://img.shields.io/aur/license/tor-browser-bin` |
+| GitHub License | ![GitHub License](https://img.shields.io/github/license/henriquesebastiao/downtify) | `https://img.shields.io/github/license/<user>/<repo>` | `https://img.shields.io/github/license/henriquesebastiao/downtify` |
+
+### Rating
+
+| Description    | Badge                                                                            | URL Sintax                                         | Example URL                                                              |
+|----------------|----------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------|
+| GitHub Repo Stars | ![GitHub Repo stars](https://img.shields.io/github/stars/henriquesebastiao/badges) | `https://img.shields.io/github/stars/<user>/<repo>` | `https://img.shields.io/github/stars/henriquesebastiao/badges` |
+| GitHub User Stars | ![GitHub User's stars](https://img.shields.io/github/stars/henriquesebastiao) | `https://img.shields.io/github/stars/<user>` | `https://img.shields.io/github/stars/henriquesebastiao` |
+| GitHub Followers | ![GitHub followers](https://img.shields.io/github/followers/henriquesebastiao) | `https://img.shields.io/github/followers/<user>` | `https://img.shields.io/github/followers/henriquesebastiao` |
+| GitHub Forks | ![GitHub forks](https://img.shields.io/github/forks/henriquesebastiao/badges) | `https://img.shields.io/github/forks/<user>/<repo>` | `https://img.shields.io/github/forks/henriquesebastiao/badges` |
+| Docker Stars | ![Docker Stars](https://img.shields.io/docker/stars/ollama/ollama) | `https://img.shields.io/docker/stars/<user>/<repo>` | `https://img.shields.io/docker/stars/ollama/ollama` |
+
+### Version
+
+| Description    | Badge                                                                            | URL Sintax                                         | Example URL                                                              |
+|----------------|----------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------|
+| Flathub Version | ![Flathub Version](https://img.shields.io/flathub/v/org.mozilla.firefox) | `https://img.shields.io/flathub/v/<packageName>` | `https://img.shields.io/flathub/v/org.mozilla.firefox` |
+| Gem Version | ![Gem Version](https://img.shields.io/gem/v/bundler) | `https://img.shields.io/gem/v/<gem>` | `https://img.shields.io/gem/v/bundler` |
+| GitHub Release | ![GitHub Release](https://img.shields.io/github/v/release/henriquesebastiao/downtify) | `https://img.shields.io/github/v/release/<user>/<repo>` | `https://img.shields.io/github/v/release/henriquesebastiao/downtify` |
+| NPM Version | ![NPM Version](https://img.shields.io/npm/v/svelte) | `https://img.shields.io/npm/v/<packageName>` | `https://img.shields.io/npm/v/svelte` |
+| PyPI Version | ![PyPI - Version](https://img.shields.io/pypi/v/netmikro) | `https://img.shields.io/pypi/v/<packageName>` | `https://img.shields.io/pypi/v/netmikro` |
 
 ## References
 
@@ -68,9 +151,7 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 |-----------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | Gmail     | ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)                 | `https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white`               |
 | Messenger | ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white)     | `https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white`       |
-| Outlook   | ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) | `https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white` |
 | Telegram  | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)        | `https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white`         |
-| Website   | ![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)          | `https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white`          |
 | WeChat    | ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)              | `https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white`             |
 | WhatsApp  | ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)        | `https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white`         |
 
@@ -124,6 +205,8 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | App Store  | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)      | `https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white`     |
 | F Droid    | ![F Droid](https://img.shields.io/badge/F%20Droid-1976D2?style=flat&logo=f-droid&logoColor=white)          | `https://img.shields.io/badge/F%20Droid-1976D2?style=flat&logo=f-droid&logoColor=white`       |
 | Play Store | ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) | `https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white` |
+| Flathub    | ![Flathub](https://img.shields.io/badge/Flathub-000000?style=flat&logo=flathub&logoColor=white)            | `https://img.shields.io/badge/Flathub-000000?style=flat&logo=flathub&logoColor=white`         |
+
 
 ### OS
 
@@ -156,9 +239,6 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | Tails         | ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=flat&logo=tails&logoColor=white)                    | `https://img.shields.io/badge/Tails%20-56347C?&style=flat&logo=tails&logoColor=white`            |
 | Ubuntu        | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)                     | `https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white`              |
 | Wear OS       | ![Wear OS](https://img.shields.io/badge/-Wear%20OS-4285F4?style=flat&logo=wear-os&logoColor=white)               | `https://img.shields.io/badge/-Wear%20OS-4285F4?style=flat&logo=wear-os&logoColor=white`         |
-| Windows       | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)                  | `https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white`            |
-| Windows 95    | ![Windows 95](https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white)         | `https://img.shields.io/badge/Windows_95-008080?style=flat&logo=windows-95&logoColor=white`      |
-| Windows XP    | ![Windows XP](https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white)         | `https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white`      |
 | Zorin OS      | ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-15A6F0?style=flat&logo=zorin&logoColor=white)                | `https://img.shields.io/badge/Zorin%20OS-15A6F0?style=flat&logo=zorin&logoColor=white`           |
 
 ### Blog
@@ -187,7 +267,6 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 
 | Name          | Badge                                                                                                             | URL                                                                                                   |
 |---------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Xamarin       | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)                   | `https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white`                 |
 | Python        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                      | `https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white`                   |
 | Python        | ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)                      | `https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white`                   |
 | HTML          | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)                           | `https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white`                      |
@@ -243,4 +322,3 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | Heroku        | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)                      | `https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white`                   |
 | AWS           | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)        | `https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white`  |
 | Google Cloud  | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)    | `https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white`       |
-| Azure         | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)     | `https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white` |~~
