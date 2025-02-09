@@ -6,11 +6,6 @@ date: 2024-10-29 16:54:00 -0400
 layout: post
 ---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=Repository%20Visits&countColor=%230c7ebe&style=flat&labelStyle=none)
-![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges)
-![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
-![GitHub Repo stars](https://img.shields.io/github/stars/henriquesebastiao/badges)
-
 A reference of several ready-made badges that you can implement in the Markdown code of your projects `README.md`, and a guide of examples on how to customize them for your needs.
 Badges help display relevant information visually and prominently, such as build status, test coverage, licenses, languages ​​used, and more!
 
