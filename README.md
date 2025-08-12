@@ -36,7 +36,7 @@ Badges help display relevant information visually and prominently, such as build
 
 ## Usage
 
-To search for a specific badge among all those listed below press `Ctrl + F` (or `CMD + F` on macOS) and a search box
+To search for a specific badge among all those listed below press <kbd>Ctrl</kbd> + <kbd>F</kbd> and a search box
 will open in your browser.
 
 It is possible to use different styles in badges through query parameters of the
@@ -292,6 +292,7 @@ The powerfull [Shields.io](https://shields.io/) API is used to generate the badg
 | Shell Script  | ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)        | `https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white`           |
 | Gatsby        | ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white)                      | `https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white`                   |
 | React         | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)                         | `https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black`                     |
+| Next.JS       | ![React](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)                   | `https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white`                     |
 | Svelte        | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)                      | `https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white`                   |
 | Vue.Js        | ![Vue.Js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)                      | `https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white`                   |
 | Angular       | ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)                   | `https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white`                 |
