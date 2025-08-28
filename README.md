@@ -96,11 +96,11 @@ Possibilities:
 
 | Style           | Badge                                                                                                 | URL                                                                                 |
 |-----------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| `flat`          | ![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)                     | `https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white` |
-| `flat-square`   | ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)   | `https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white` |
-| `social`        | ![Github](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=black)        | `https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white` |
-| `plastic`       | ![Github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)       | `https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white` |
-| `for-the-badge` | ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | `https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white` |
+| `flat`          | ![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)                     | `https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white` |
+| `flat-square`   | ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)   | `https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white` |
+| `social`        | ![Github](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=black)        | `https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=black` |
+| `plastic`       | ![Github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)       | `https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white` |
+| `for-the-badge` | ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | `https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white` |
 
 ### ⭐ Icons
 
